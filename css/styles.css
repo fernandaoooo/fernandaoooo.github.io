@@ -1,21 +1,21 @@
 h1 {
-    background-color: rgb(139, 197, 145);
+    background-color: #ffffff;
     font-size: 50px;
     color: #000;
     text-align: center;
     
 }
 body {
-    background-color: rgb(224, 255, 224);
+    background-color: rgb(247, 247, 247);
     margin: 0px;
 }
 img {
     margin: auto;
     display: block;
     height: auto;
-    width: 400px;
-    border: 8px solid #00350c;   
-    border-radius: 30px; 
+    width: px;
+    border: 8px;   
+    border-radius: 20px; 
     padding: 2px;
 }
 a {
@@ -29,6 +29,7 @@ p {
     margin: 30px;
     font-size: 18px;
 }
-ol {
+ul {
     margin: 30px;
+    font-size: 18px;
 }
