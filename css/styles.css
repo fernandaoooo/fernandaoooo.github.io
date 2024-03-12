@@ -13,7 +13,7 @@ img {
     margin: auto;
     display: block;
     height: auto;
-    width: px;
+    width: 500px;
     border: 8px;   
     border-radius: 20px; 
     padding: 2px;
@@ -32,4 +32,10 @@ p {
 ul {
     margin: 30px;
     font-size: 18px;
+}
+.dog {
+    width: 400px;
+}
+#animais {
+    width: 800px;
 }
