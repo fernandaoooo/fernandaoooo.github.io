@@ -6,7 +6,7 @@ h1 {
     
 }
 body {
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(157, 182, 143);
     margin: 0px;
 }
 img {
@@ -23,8 +23,7 @@ a {
     color: rgb(255, 255, 255);
 }
 a:hover{ 
-    color: springgreen;
-    font-size: 20px;
+    color: rgb(3, 214, 108);
 }
 * {
     font-family: serif;
@@ -32,6 +31,7 @@ a:hover{
 p {
     margin: 30px;
     font-size: 18px;
+    text-indent: 30px;
 }
 ul {
     margin: 30px;
@@ -53,6 +53,7 @@ li {
 }
 header {
     background-color: #0c4927;
+    padding-top: 10px;
 }
 h2 {
     color: #ffffff;
@@ -61,4 +62,8 @@ h2 {
 }
 footer{
     background-color: #0c4927;
+}
+.pi{
+    padding: 0px;
+    width: 250px;
 }
