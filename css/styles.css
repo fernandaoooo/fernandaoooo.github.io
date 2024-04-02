@@ -30,7 +30,7 @@ a:hover{
 }
 p {
     margin: 1px 50px;
-    font-size: 18px;
+    font-size: 20px;
     text-indent: 30px;
 }
 ul {
@@ -70,11 +70,7 @@ footer{
 h3{
     text-align: center;
     margin: 30px 0 40px 0;
-}
-h4 {
-    margin-left: 300px;
-    margin-bottom: 10px;
-    text-size-adjust: ; 
+    font-size: 24px;
 }
 footer {
     background-color: #0c4927;
